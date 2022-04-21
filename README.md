@@ -4,7 +4,7 @@
 
 ![fondo-web2-10A-ENES](https://user-images.githubusercontent.com/100146672/160222385-4576c60e-1005-4753-b34d-c5461658c11b.png)
 
-A project by Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo)) ([alexis.nuviedo@gmail.com](mailto:alexis.nuviedo@gmail.com)), as part of the first partial exam of the Dynamic Systems 2022-2 class imparted at the [*Escuela Nacional de Estudios Superiores*, campus Morelia](https://www.enesmorelia.unam.mx/), [UNAM](https://www.unam.mx/), by Dr. (Victor de la Luz)[https://github.com/itztli].
+A project by Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo)) ([alexis.nuviedo@gmail.com](mailto:alexis.nuviedo@gmail.com)), as part of the first partial exam of the Dynamic Systems 2022-2 class imparted at the [*Escuela Nacional de Estudios Superiores*, campus Morelia](https://www.enesmorelia.unam.mx/), [UNAM](https://www.unam.mx/), by Dr. [Victor de la Luz](https://github.com/itztli).
 
 ## Problem description
 
