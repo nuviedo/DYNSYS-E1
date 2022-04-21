@@ -37,7 +37,9 @@ As a compliment, here is the resulting image of using a=1/SQRT(2).
 ## Steps to reproduce
 
 * Execute [Sol.py](Sol.py).
-* Extract resulting .png from current working directory.
+* Extract resulting .png from current working directory. 
+
+Feel welcome to customize coloring on line 42, and resolution/initial parameters in line 2/3.
 
 
 ## References
