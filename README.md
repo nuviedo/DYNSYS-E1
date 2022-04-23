@@ -33,6 +33,7 @@ As a compliment, here is the resulting image of using a=1/SQRT(2).
 
 ## Requirements
 * [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
 
 ## Steps to reproduce
 
